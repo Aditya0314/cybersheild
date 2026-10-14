@@ -1,0 +1,12 @@
+
+10:01:03 | user=aditya | ip=192.168.1.10 | status=FAILED
+10:01:08 | user=aditya | ip=192.168.1.10 | status=FAILED
+10:01:15 | user=nihaar | ip=192.168.1.11 | status=SUCCESS
+10:02:01 | user=ayaan | ip=192.168.1.12 | status=FAILED
+10:02:09 | user=ayaan | ip=192.168.1.12 | status=FAILED
+10:02:15 | user=ayaan | ip=192.168.1.12 | status=FAILED
+10:01:19 | user=ayush | ip=192.168.1.13 | status=FAILED
+10:02:18 | user=ayaan | ip=192.168.1.12 | status=FAILED
+10:02:21 | user=ayaan | ip=192.168.1.12 | status=FAILED
+10:02:25 | user=ayaan | ip=192.168.1.12 | status=FAILED
+21:48:07 | user=ayush | ip=192.168.1.13 | status=SUCCESS
